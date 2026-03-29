@@ -1,3 +1,5 @@
+# Calculadora simples com as quatro operações fundamentais
+
 print("---------------------")
 print("CALCULADORA SIMPLES")
 print("---------------------")
