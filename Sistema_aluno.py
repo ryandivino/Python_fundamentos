@@ -1,3 +1,5 @@
+#Este algoritmo lê 3 notas de um aluno, calcula sua média e retorna a situação do aluno.
+
 aluno = input("Digite o nome do aluno: ")
 soma = 0
 
